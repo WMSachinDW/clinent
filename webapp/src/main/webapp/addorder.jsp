@@ -29,7 +29,7 @@
   </div>
   </div>
   <div class="col-12">
-    <button type="submit" class="btn btn-primary">Update Order</button>
+    <button type="submit" class="btn btn-primary">Add Order</button>
   </div>
 </form>
 </body>
